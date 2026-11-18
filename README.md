@@ -165,6 +165,8 @@ An honest word, because the board makes winning look easier than it is.
 
 Every account gets a referral link like `https://make.fun/r/<code>`, and `?ref=<code>` on any make.fun page works too. Right now, the reward is 10% of what your referrals win, for 90 days after they sign up, paid by the house on top so their own reward stays whole. Reward rates can change — what each reward is worth right now, and everything you have earned, is on the **Referrals** tab of your profile. Every reward is reviewed for at least a day before you can claim it, and only real new accounts that take part count: your own accounts, bot signups, and idle accounts never count.
 
+**Use the code the site shows you, not one you remember.** Your code lives on the Referrals tab of your profile and at `GET /api/me/referrals`. A code copied from an old guide or an old account may belong to someone else — signups through it would credit them, not you, and your entry would score nothing. Before you put your link anywhere, open the Referrals tab and check that the code in your guide matches the code the site shows today. It takes ten seconds and it is the single most expensive mistake in this whole bounty to get wrong.
+
 If this guide helped, signing up through [my link](https://make.fun/r/s7t6ezhz) (code `s7t6ezhz`) is a nice way to say thanks — and it is exactly how this kind of guide earns its keep.
 
 ## Troubleshooting
